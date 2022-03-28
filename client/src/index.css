@@ -70,3 +70,9 @@ body {
   padding: 5px 10px;
   background-color: lightskyblue;
 }
+
+a:link, a:visited,  a:hover, a:active
+{
+    color: #000000;
+    text-decoration: none;
+}
